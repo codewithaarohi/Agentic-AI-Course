@@ -1,0 +1,62 @@
+# Budget Laptops for AI/ML (India, 2024)
+
+1. HP Victus 15
+- Price: ₹78,990
+- CPU: AMD Ryzen 5 5600H
+- GPU: NVIDIA RTX 3050 (4GB)
+- RAM: 16GB DDR4
+- Storage: 512GB SSD
+- Good for: TensorFlow, PyTorch, basic ML training
+- Comments: Strong GPU, good thermals, solid AI performance
+
+2. Lenovo IdeaPad Gaming 3
+- Price: ₹74,999
+- CPU: Intel i5 11300H
+- GPU: NVIDIA GTX 1650 (4GB)
+- RAM: 8GB (expandable to 16GB)
+- Storage: 512GB SSD
+- Good for: Lightweight ML tasks, student projects
+- Comments: Affordable gaming laptop, decent for AI workloads
+
+3. ASUS TUF Gaming F15
+- Price: ₹79,990
+- CPU: Intel i5 11400H
+- GPU: NVIDIA RTX 3050 (4GB)
+- RAM: 16GB DDR4
+- Storage: 512GB SSD
+- Good for: Deep learning models, parallel processing
+- Comments: Rugged build, best performance for the price
+
+4. Acer Aspire 7
+- Price: ₹62,990
+- CPU: AMD Ryzen 5 5500U
+- GPU: NVIDIA GTX 1650
+- RAM: 8GB
+- Storage: 512GB SSD
+- Good for: Intro ML, data science
+- Comments: Value for money, limited by RAM/GPU
+
+5. Dell Inspiron 15
+- Price: ₹69,500
+- CPU: Intel i5 1235U
+- GPU: Integrated (Iris Xe)
+- RAM: 16GB
+- Storage: 512GB SSD
+- Good for: Basic ML, tabular data, sklearn models
+- Comments: No dedicated GPU, not suitable for heavy AI work
+
+6. MSI GF63 Thin
+- Price: ₹76,990
+- CPU: Intel i5 11400H
+- GPU: NVIDIA GTX 1650
+- RAM: 8GB
+- Storage: 512GB SSD
+- Good for: Basic DL models, CNNs
+- Comments: Slim and lightweight, but limited GPU
+
+# Laptop Buying Tips for AI/ML (2024)
+- Prefer 16GB RAM or more
+- Look for NVIDIA GPUs like GTX 1650, RTX 3050 or better
+- Avoid integrated graphics for training models
+- SSD preferred for fast data access
+- Ryzen 5, i5 H-series or better recommended
